@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Home Display - NestJS Backend",
   "private": true,
-  "license": "UNLICENSED",
+  "license": "MIT",
   "scripts": {
     "build": "nest build",
     "start": "nest start",
