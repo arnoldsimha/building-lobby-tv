@@ -18,5 +18,6 @@
     "build:backend": "npm run build -w @home-display/backend",
     "build:frontend": "npm run build -w @home-display/frontend",
     "start": "npm run start:prod -w @home-display/backend"
-  }
+  },
+  "license": "MIT"
 }
