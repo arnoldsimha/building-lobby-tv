@@ -1,0 +1,75 @@
+{
+  "widgets": {
+    "clock": "Clock & Date",
+    "shabbatTimes": "Shabbat Times",
+    "messages": "Building Messages",
+    "news": "News",
+    "buildingName": "Building Name",
+    "wallpaper": "Wallpaper"
+  },
+  "shabbat": {
+    "candleLighting": "Candle Lighting",
+    "havdalah": "Havdalah",
+    "parasha": "Weekly Parasha"
+  },
+  "messages": {
+    "noMessages": "No messages",
+    "urgent": "Urgent",
+    "info": "Info",
+    "warning": "Warning",
+    "event": "Event"
+  },
+  "days": {
+    "sunday": "Sunday",
+    "monday": "Monday",
+    "tuesday": "Tuesday",
+    "wednesday": "Wednesday",
+    "thursday": "Thursday",
+    "friday": "Friday",
+    "saturday": "Saturday"
+  },
+  "months": {
+    "january": "January",
+    "february": "February",
+    "march": "March",
+    "april": "April",
+    "may": "May",
+    "june": "June",
+    "july": "July",
+    "august": "August",
+    "september": "September",
+    "october": "October",
+    "november": "November",
+    "december": "December"
+  },
+  "hebrewMonths": {
+    "nisan": "Nisan",
+    "iyar": "Iyar",
+    "sivan": "Sivan",
+    "tamuz": "Tamuz",
+    "av": "Av",
+    "elul": "Elul",
+    "tishrei": "Tishrei",
+    "cheshvan": "Cheshvan",
+    "kislev": "Kislev",
+    "tevet": "Tevet",
+    "shvat": "Shvat",
+    "adar": "Adar",
+    "adarI": "Adar I",
+    "adarII": "Adar II"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "unavailable": "Currently unavailable",
+    "retry": "Retry",
+    "in": "in",
+    "defaultBuildingName": "Residential Building",
+    "buildingHeader": "🏢 {{buildingName}}",
+    "photoCredit": "Photo from Unsplash"
+  },
+  "news": {
+    "breakingNews": "Breaking News",
+    "noNews": "No news available"
+  }
+}

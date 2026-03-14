@@ -1,0 +1,75 @@
+{
+  "widgets": {
+    "clock": "שעון ותאריך",
+    "shabbatTimes": "זמני שבת",
+    "messages": "הודעות הבניין",
+    "news": "חדשות",
+    "buildingName": "שם הבניין",
+    "wallpaper": "תמונה"
+  },
+  "shabbat": {
+    "candleLighting": "כניסה",
+    "havdalah": "יציאה",
+    "parasha": "פרשת השבוע"
+  },
+  "messages": {
+    "noMessages": "אין הודעות",
+    "urgent": "דחוף",
+    "info": "מידע",
+    "warning": "אזהרה",
+    "event": "אירוע"
+  },
+  "days": {
+    "sunday": "יום ראשון",
+    "monday": "יום שני",
+    "tuesday": "יום שלישי",
+    "wednesday": "יום רביעי",
+    "thursday": "יום חמישי",
+    "friday": "יום שישי",
+    "saturday": "שבת"
+  },
+  "months": {
+    "january": "ינואר",
+    "february": "פברואר",
+    "march": "מרץ",
+    "april": "אפריל",
+    "may": "מאי",
+    "june": "יוני",
+    "july": "יולי",
+    "august": "אוגוסט",
+    "september": "ספטמבר",
+    "october": "אוקטובר",
+    "november": "נובמבר",
+    "december": "דצמבר"
+  },
+  "hebrewMonths": {
+    "nisan": "ניסן",
+    "iyar": "אייר",
+    "sivan": "סיוון",
+    "tamuz": "תמוז",
+    "av": "אב",
+    "elul": "אלול",
+    "tishrei": "תשרי",
+    "cheshvan": "חשוון",
+    "kislev": "כסלו",
+    "tevet": "טבת",
+    "shvat": "שבט",
+    "adar": "אדר",
+    "adarI": "אדר א׳",
+    "adarII": "אדר ב׳"
+  },
+  "common": {
+    "loading": "טוען...",
+    "error": "שגיאה",
+    "unavailable": "לא זמין כרגע",
+    "retry": "נסה שוב",
+    "in": "ב",
+    "defaultBuildingName": "בניין מגורים",
+    "buildingHeader": "🏢 ברוכים הבאים ל{{buildingName}}, חולון ",
+    "photoCredit": "צילום מ-Unsplash"
+  },
+  "news": {
+    "breakingNews": "חדשות עכשיו",
+    "noNews": "אין חדשות זמינות"
+  }
+}

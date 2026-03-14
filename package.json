@@ -1,0 +1,22 @@
+{
+  "name": "home-display",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Building lobby TV display application",
+  "workspaces": [
+    "packages/frontend",
+    "packages/backend"
+  ],
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "dev": "npm run dev:backend & npm run dev:frontend",
+    "dev:backend": "npm run start:dev -w @home-display/backend",
+    "dev:frontend": "npm run dev -w @home-display/frontend",
+    "build": "npm run build:backend && npm run build:frontend",
+    "build:backend": "npm run build -w @home-display/backend",
+    "build:frontend": "npm run build -w @home-display/frontend",
+    "start": "npm run start:prod -w @home-display/backend"
+  }
+}

@@ -1,0 +1,50 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE files
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Testing
+coverage/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Temporary files
+tmp/
+temp/
+
+# Wallpaper images (large files, keep local only)
+packages/backend/data/wallpapers/*.jpg
+packages/backend/data/wallpapers/*.jpeg
+packages/backend/data/wallpapers/*.png
+packages/backend/data/wallpapers/*.webp
+!packages/backend/data/wallpapers/.gitkeep
+
+# Wallpapers config with API keys (use wallpapers.json.example as template)
+packages/backend/data/wallpapers.json

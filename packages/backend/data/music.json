@@ -1,0 +1,14 @@
+{
+  "enabled": true,
+  "volume": 30,
+  "source": "radio",
+  "localPlaylist": [],
+  "radioStation": {
+    "name": "Galgalatz",
+    "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3"
+  },
+  "customStreamUrl": null,
+  "currentIndex": 0,
+  "shuffle": false,
+  "autoplay": true
+}

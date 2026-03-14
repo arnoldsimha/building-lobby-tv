@@ -1,0 +1,17 @@
+{
+  "source": "unsplash",
+  "unsplash": {
+    "query": "Tel Aviv Jerusalem Haifa cityscape",
+    "count": 10
+  },
+  "wallpapers": [
+    {
+      "id": "1",
+      "filename": "example.jpg",
+      "title": "Example wallpaper",
+      "active": true
+    }
+  ],
+  "rotationEnabled": true,
+  "rotationInterval": 30000
+}

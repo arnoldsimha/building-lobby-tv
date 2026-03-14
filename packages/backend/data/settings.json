@@ -1,0 +1,24 @@
+{
+  "buildingName": "מגדלי הים",
+  "buildingAddress": "רחוב הים 1, תל אביב",
+  "language": "he",
+  "location": {
+    "geonameid": 293397,
+    "city": "תל אביב"
+  },
+  "news": {
+    "activeSource": "ynet",
+    "refreshInterval": 900000
+  },
+  "display": {
+    "messageRotationInterval": 10000,
+    "wallpaperRotationInterval": 30000,
+    "shabbatCacheInterval": 86400000
+  },
+  "theme": {
+    "primaryColor": "#2563EB",
+    "accentColor": "#D97706",
+    "panelBackground": "rgba(255, 255, 255, 0.85)",
+    "textColor": "#1F2937"
+  }
+}
